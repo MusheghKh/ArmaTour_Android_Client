@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_menu_places"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/bottom_menu_places" />
+    <item
+        android:id="@+id/bottom_menu_tours"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="@string/bottom_menu_tours" />
+    <item
+        android:id="@+id/bottom_menu_motels"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="@string/bottom_menu_motels" />
+    <item
+        android:id="@+id/bottom_menu_guide"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="@string/bottom_menu_guide" />
+
+</menu>
